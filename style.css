@@ -18,9 +18,8 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url(images/pattern-background-mobile.svg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background: url(images/pattern-background-mobile.svg) no-repeat top center;
+    background-size: contain;
 }
 .container {
     width: 350px;
