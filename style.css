@@ -19,7 +19,7 @@ body {
     align-items: center;
     min-height: 100vh;
     background: url(images/pattern-background-mobile.svg) no-repeat top center;
-    background-size: contain;
+    background-size: cover;
 }
 .container {
     width: 350px;
